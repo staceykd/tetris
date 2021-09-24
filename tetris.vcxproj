@@ -148,6 +148,7 @@
   <ItemGroup>
     <ClCompile Include="Draw.cpp" />
     <ClCompile Include="Game_Set.cpp" />
+    <ClCompile Include="Level_Changed.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Pieces.cpp" />
     <ClCompile Include="Pieces_Set.cpp" />
